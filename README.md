@@ -2,6 +2,7 @@
 
 ### Course 
 * `EE231002` in National Tsing-Hua University
+* Lecturer: MiChang Chang
 ### Programming Language
 * C
 ### Labs
